@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include "prod.c"
 int main(){
-    printf("HELLO WORLD\n");
-    my_greeter12(int a,int b);
+
+    int a;
+    int b;
+    my_greeter12(a,b);
     return 0;
 }
